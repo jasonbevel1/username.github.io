@@ -6,6 +6,8 @@
 
 <section id="about">
     <h2>About Me</h2>
+    </html><img width="180" height="240" alt="Image" src="https://github.com/user-attachments/assets/45971a83-9604-4796-a600-d30a6d806856" />
+    <br>
     <p>My name is Jason Bevel. I am 21 years old and currently work as a CNA at atrium baptist health. <br> I am planning to use my Data Reporting & Analytics degree to do work within healthcare</p>
 </section>
 
